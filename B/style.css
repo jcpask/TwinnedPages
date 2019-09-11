@@ -1,4 +1,22 @@
 body
 {
-    color:blue;
+    font-family: Helvetica;
+    color: darkblue;
+    background-image: url("imgs/background2.jpg");
+    background-repeat: repeat;
+    background-attachment: fixed;
+    }
+a:hover {
+  background-color: yellow;
 }
+tr {
+    background-color: whitesmoke;
+    text-align: center;
+    }
+h1 {
+    background-color: azure;
+    color: darkslategray;
+    min-width: 450px;
+    max-width: 650px;
+    text-align: center;
+    }
