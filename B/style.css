@@ -2,7 +2,7 @@ body
 {
     font-family: Helvetica;
     color: darkblue;
-    background-image: url("imgs/background2.jpg");
+    background-image: url("../background2.jpg");
     background-repeat: repeat;
     background-attachment: fixed;
     }
