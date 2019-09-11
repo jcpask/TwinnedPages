@@ -2,7 +2,7 @@ body
 {
     font-family: Verdana;
     color: white;
-    background-image: url("../backgroundA.jpg");
+    background-image: url("https://raw.githubusercontent.com/jcpask/TwinnedPages/master/backgroundA.jpg");
     background-repeat: repeat;
     background-attachment: fixed;
     }
